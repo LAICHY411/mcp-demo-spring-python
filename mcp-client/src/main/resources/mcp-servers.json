@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "D:\\PROJECTS\\JAVA_S8\\spring-demp-spring-python"
+
+      ]
+    }
+  }
+}
